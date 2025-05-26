@@ -69,9 +69,6 @@
         <mxCell id="dNxyNK7c78bLwvsdeMH5-36" value="" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" parent="dNxyNK7c78bLwvsdeMH5-22" vertex="1">
           <mxGeometry x="360" y="30" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="i_tH7PcshmfgfTmCGV2M-1" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="627" y="320" width="200" height="200" as="geometry" />
-        </mxCell>
         <mxCell id="i_tH7PcshmfgfTmCGV2M-2" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="827" y="320" width="200" height="200" as="geometry" />
         </mxCell>
