@@ -4,10 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="z2doii9vQGukNCj5ATKF-3" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="z2doii9vQGukNCj5ATKF-3" value="NCC" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="250" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="z2doii9vQGukNCj5ATKF-4" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="z2doii9vQGukNCj5ATKF-4" value="金千枝" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="250" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
