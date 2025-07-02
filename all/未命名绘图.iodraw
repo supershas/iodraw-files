@@ -7,6 +7,11 @@
         <mxCell id="2KWf3wpOSu-q9AdGR5cE-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2KWf3wpOSu-q9AdGR5cE-2" target="2KWf3wpOSu-q9AdGR5cE-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="2KWf3wpOSu-q9AdGR5cE-18" value="组件" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2KWf3wpOSu-q9AdGR5cE-8">
+          <mxGeometry x="0.0462" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="2KWf3wpOSu-q9AdGR5cE-2" value="优时" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="695" y="120" width="150" height="200" as="geometry" />
         </mxCell>
@@ -19,8 +24,13 @@
         <mxCell id="2KWf3wpOSu-q9AdGR5cE-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2KWf3wpOSu-q9AdGR5cE-3" target="2KWf3wpOSu-q9AdGR5cE-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2KWf3wpOSu-q9AdGR5cE-17" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2KWf3wpOSu-q9AdGR5cE-11">
+        <mxCell id="2KWf3wpOSu-q9AdGR5cE-17" value="组成" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2KWf3wpOSu-q9AdGR5cE-11">
           <mxGeometry x="-0.1385" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2KWf3wpOSu-q9AdGR5cE-19" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2KWf3wpOSu-q9AdGR5cE-11">
+          <mxGeometry x="-0.2" y="7" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
