@@ -5,13 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dNxyNK7c78bLwvsdeMH5-19" value="Pool" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="120" y="120" width="440" height="200" as="geometry" />
+          <mxGeometry x="120" y="120" width="170" height="200" as="geometry" />
         </mxCell>
         <mxCell id="2KWf3wpOSu-q9AdGR5cE-1" value="NCC" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-19">
-          <mxGeometry x="20" width="420" height="200" as="geometry" />
+          <mxGeometry x="20" width="150" height="200" as="geometry" />
         </mxCell>
         <mxCell id="2KWf3wpOSu-q9AdGR5cE-2" value="优时" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="120" width="150" height="200" as="geometry" />
+          <mxGeometry x="695" y="120" width="150" height="200" as="geometry" />
         </mxCell>
         <mxCell id="2KWf3wpOSu-q9AdGR5cE-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="2KWf3wpOSu-q9AdGR5cE-3" target="2KWf3wpOSu-q9AdGR5cE-2">
           <mxGeometry relative="1" as="geometry" />
