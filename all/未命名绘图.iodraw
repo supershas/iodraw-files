@@ -13,6 +13,9 @@
         <mxCell id="2KWf3wpOSu-q9AdGR5cE-2" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="120" width="420" height="200" as="geometry" />
         </mxCell>
+        <mxCell id="2KWf3wpOSu-q9AdGR5cE-3" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="485" width="420" height="200" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
