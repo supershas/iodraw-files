@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="QLwpwS9Uu-xhIAcelBOx-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2KWf3wpOSu-q9AdGR5cE-3" target="QLwpwS9Uu-xhIAcelBOx-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2KWf3wpOSu-q9AdGR5cE-3" value="中台" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="140" width="160" height="200" as="geometry" />
         </mxCell>
@@ -46,11 +49,8 @@
             <mxPoint x="-830" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QLwpwS9Uu-xhIAcelBOx-16" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="370" y="370" as="sourcePoint" />
-            <mxPoint x="420" y="320" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="QLwpwS9Uu-xhIAcelBOx-17" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;fontStyle=1;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="810" y="230" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
