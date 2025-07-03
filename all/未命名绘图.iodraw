@@ -79,7 +79,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QLwpwS9Uu-xhIAcelBOx-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QLwpwS9Uu-xhIAcelBOx-26" value="需要按照交易类型划分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1010" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
