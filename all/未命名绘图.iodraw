@@ -5,7 +5,12 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="QLwpwS9Uu-xhIAcelBOx-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2KWf3wpOSu-q9AdGR5cE-3" target="QLwpwS9Uu-xhIAcelBOx-17">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="370" />
+              <mxPoint x="810" y="370" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="2KWf3wpOSu-q9AdGR5cE-3" value="中台" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="140" width="160" height="200" as="geometry" />
@@ -34,7 +39,7 @@
         <mxCell id="QLwpwS9Uu-xhIAcelBOx-17" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;fontStyle=1;startSize=23;" vertex="1" parent="QLwpwS9Uu-xhIAcelBOx-6">
           <mxGeometry x="-10" y="101.5" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="QLwpwS9Uu-xhIAcelBOx-10" value="中台" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QLwpwS9Uu-xhIAcelBOx-10" value="NCC" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="250" width="160" height="200" as="geometry" />
         </mxCell>
         <mxCell id="QLwpwS9Uu-xhIAcelBOx-11" value="表头" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QLwpwS9Uu-xhIAcelBOx-10">
