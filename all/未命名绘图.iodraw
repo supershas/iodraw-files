@@ -76,7 +76,7 @@
         <mxCell id="QLwpwS9Uu-xhIAcelBOx-27" value="需要按照交易类型划分" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1010" y="80" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cz2AX-1Rd704xDl4_UVn-1" value="中台请购单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cz2AX-1Rd704xDl4_UVn-1" value="中台&lt;div&gt;请购单&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1130" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
