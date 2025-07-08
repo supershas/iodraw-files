@@ -79,8 +79,8 @@
         <mxCell id="cz2AX-1Rd704xDl4_UVn-1" value="中台&lt;div&gt;请购单&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1130" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cz2AX-1Rd704xDl4_UVn-2" value="NCC请购单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-880" y="200" width="120" height="60" as="geometry" />
+        <mxCell id="cz2AX-1Rd704xDl4_UVn-2" value="优时请购单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-870" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cz2AX-1Rd704xDl4_UVn-3" value="NCC请购单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-870" y="210" width="120" height="60" as="geometry" />
