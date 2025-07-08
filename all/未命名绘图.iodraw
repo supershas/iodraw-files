@@ -128,6 +128,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="cz2AX-1Rd704xDl4_UVn-18" value="校验不允许&lt;div&gt;后续单据&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-710" y="350" as="geometry">
+            <mxPoint x="-5" y="43" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
