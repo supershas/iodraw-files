@@ -81,7 +81,7 @@
         </mxCell>
         <mxCell id="cz2AX-1Rd704xDl4_UVn-10" value="素件" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cz2AX-1Rd704xDl4_UVn-7">
           <mxGeometry x="0.4712" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="15" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cz2AX-1Rd704xDl4_UVn-1" value="中台&lt;div&gt;请购单&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -121,6 +121,11 @@
         </mxCell>
         <mxCell id="cz2AX-1Rd704xDl4_UVn-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.008;entryY=0.633;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cz2AX-1Rd704xDl4_UVn-1" target="cz2AX-1Rd704xDl4_UVn-2">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cz2AX-1Rd704xDl4_UVn-11" value="镶嵌" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cz2AX-1Rd704xDl4_UVn-9">
+          <mxGeometry x="0.5605" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
