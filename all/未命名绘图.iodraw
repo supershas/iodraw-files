@@ -173,6 +173,9 @@
         <mxCell id="6IeccwUr0kC99l28bpFg-13" value="负数：应付单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1430" y="790" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="6IeccwUr0kC99l28bpFg-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6IeccwUr0kC99l28bpFg-16" target="6IeccwUr0kC99l28bpFg-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6IeccwUr0kC99l28bpFg-16" value="客户来石单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1590" y="530" width="120" height="60" as="geometry" />
         </mxCell>
