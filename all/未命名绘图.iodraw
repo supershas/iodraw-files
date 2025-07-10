@@ -170,7 +170,7 @@
         <mxCell id="6IeccwUr0kC99l28bpFg-10" value="应付单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1430" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6IeccwUr0kC99l28bpFg-13" value="应付单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6IeccwUr0kC99l28bpFg-13" value="负数：应付单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1430" y="790" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
