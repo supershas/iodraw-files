@@ -211,6 +211,9 @@
         <mxCell id="6IeccwUr0kC99l28bpFg-35" value="工厂" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="6IeccwUr0kC99l28bpFg-27">
           <mxGeometry x="266" y="79.5" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="6IeccwUr0kC99l28bpFg-40" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=11;arrowHead=43;dx2=25;" vertex="1" parent="1">
+          <mxGeometry x="-1380" y="1220" width="100" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
