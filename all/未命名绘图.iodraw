@@ -214,13 +214,13 @@
         <mxCell id="6IeccwUr0kC99l28bpFg-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6IeccwUr0kC99l28bpFg-44" target="6IeccwUr0kC99l28bpFg-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6IeccwUr0kC99l28bpFg-44" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="6IeccwUr0kC99l28bpFg-44" value="到货单" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1380" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6IeccwUr0kC99l28bpFg-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6IeccwUr0kC99l28bpFg-24" target="6IeccwUr0kC99l28bpFg-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6IeccwUr0kC99l28bpFg-46" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="6IeccwUr0kC99l28bpFg-46" value="采购订单" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1580" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
