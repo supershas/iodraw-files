@@ -227,7 +227,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6IeccwUr0kC99l28bpFg-58" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1610" y="980" width="200" height="200" as="geometry" />
+          <mxGeometry x="-1610" y="950" width="570" height="260" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
