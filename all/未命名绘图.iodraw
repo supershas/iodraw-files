@@ -192,7 +192,7 @@
           <mxGeometry x="-1440" y="940" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="6IeccwUr0kC99l28bpFg-25" value="石料调拨单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6IeccwUr0kC99l28bpFg-27">
-          <mxGeometry x="40" y="90" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="100" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
