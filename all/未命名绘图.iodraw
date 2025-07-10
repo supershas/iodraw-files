@@ -147,7 +147,7 @@
         <mxCell id="6IeccwUr0kC99l28bpFg-1" value="石料入库单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1430" y="530" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6IeccwUr0kC99l28bpFg-2" value="石料调拨" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6IeccwUr0kC99l28bpFg-2" value="石料调拨单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1200" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6IeccwUr0kC99l28bpFg-4" value="石料入库退回单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -155,6 +155,9 @@
         </mxCell>
         <mxCell id="6IeccwUr0kC99l28bpFg-7" value="石料盘点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-990" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6IeccwUr0kC99l28bpFg-8" value="石料盘点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-980" y="540" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
