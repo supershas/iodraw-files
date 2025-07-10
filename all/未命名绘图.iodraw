@@ -197,8 +197,8 @@
         <mxCell id="6IeccwUr0kC99l28bpFg-25" value="石料调拨单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6IeccwUr0kC99l28bpFg-27">
           <mxGeometry x="-20" y="105" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6IeccwUr0kC99l28bpFg-30" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="6IeccwUr0kC99l28bpFg-27">
-          <mxGeometry x="160" y="99" width="60" height="42" as="geometry" />
+        <mxCell id="6IeccwUr0kC99l28bpFg-30" value="自制销售" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="6IeccwUr0kC99l28bpFg-27">
+          <mxGeometry x="160" y="99" width="80" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
