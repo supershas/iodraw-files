@@ -180,7 +180,7 @@
           <mxGeometry x="-1591" y="650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6IeccwUr0kC99l28bpFg-27" value="收发部" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="-1040" y="950" width="1160" height="260" as="geometry" />
+          <mxGeometry x="-1040" y="950" width="550" height="260" as="geometry" />
         </mxCell>
         <mxCell id="6IeccwUr0kC99l28bpFg-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="6IeccwUr0kC99l28bpFg-27" source="6IeccwUr0kC99l28bpFg-25" target="6IeccwUr0kC99l28bpFg-30">
           <mxGeometry relative="1" as="geometry" />
@@ -214,7 +214,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6IeccwUr0kC99l28bpFg-79" value="NCC成本退厂" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="6IeccwUr0kC99l28bpFg-27">
-          <mxGeometry x="100" y="59" width="90" height="30" as="geometry" />
+          <mxGeometry x="100" y="47" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6IeccwUr0kC99l28bpFg-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="6IeccwUr0kC99l28bpFg-25">
           <mxGeometry relative="1" as="geometry">
