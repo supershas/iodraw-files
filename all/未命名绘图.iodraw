@@ -230,6 +230,9 @@
         <mxCell id="6IeccwUr0kC99l28bpFg-60" value="采购入库" style="whiteSpace=wrap;html=1;" vertex="1" parent="6IeccwUr0kC99l28bpFg-61">
           <mxGeometry x="361" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="6IeccwUr0kC99l28bpFg-75" value="成品退厂" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-924" y="1059" width="80" height="41" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
