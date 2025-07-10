@@ -179,7 +179,7 @@
         <mxCell id="6IeccwUr0kC99l28bpFg-17" value="客户退石单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1591" y="650" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6IeccwUr0kC99l28bpFg-27" value="收发部" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
+        <mxCell id="6IeccwUr0kC99l28bpFg-27" value="收发部（优时）" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="-1040" y="950" width="320" height="260" as="geometry" />
         </mxCell>
         <mxCell id="6IeccwUr0kC99l28bpFg-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="6IeccwUr0kC99l28bpFg-27" source="6IeccwUr0kC99l28bpFg-25" target="6IeccwUr0kC99l28bpFg-30">
@@ -195,11 +195,6 @@
         </mxCell>
         <mxCell id="6IeccwUr0kC99l28bpFg-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="6IeccwUr0kC99l28bpFg-27" source="6IeccwUr0kC99l28bpFg-30" target="6IeccwUr0kC99l28bpFg-35">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="6IeccwUr0kC99l28bpFg-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="6IeccwUr0kC99l28bpFg-27" source="6IeccwUr0kC99l28bpFg-30">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="145" y="77" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="6IeccwUr0kC99l28bpFg-30" value="优时成品退厂" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="6IeccwUr0kC99l28bpFg-27">
           <mxGeometry x="106" y="99" width="80" height="41" as="geometry" />
