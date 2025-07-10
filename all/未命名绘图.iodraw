@@ -220,7 +220,7 @@
             <mxPoint x="-1100" y="1070" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6IeccwUr0kC99l28bpFg-58" value="供应链" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6IeccwUr0kC99l28bpFg-58" value="供应链(优时）" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1610" y="950" width="570" height="260" as="geometry" />
         </mxCell>
         <mxCell id="6IeccwUr0kC99l28bpFg-61" value="" style="group" vertex="1" connectable="0" parent="1">
