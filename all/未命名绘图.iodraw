@@ -189,10 +189,15 @@
           <mxGeometry x="40" y="95" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6IeccwUr0kC99l28bpFg-27" value="收发部" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="-1440" y="940" width="240" height="250" as="geometry" />
+          <mxGeometry x="-1440" y="940" width="250" height="260" as="geometry" />
         </mxCell>
         <mxCell id="6IeccwUr0kC99l28bpFg-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="6IeccwUr0kC99l28bpFg-27" source="6IeccwUr0kC99l28bpFg-25" target="6IeccwUr0kC99l28bpFg-30">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6IeccwUr0kC99l28bpFg-34" value="退货仓" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6IeccwUr0kC99l28bpFg-31">
+          <mxGeometry x="-0.0551" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6IeccwUr0kC99l28bpFg-25" value="石料调拨单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6IeccwUr0kC99l28bpFg-27">
           <mxGeometry x="-27" y="105" width="70" height="30" as="geometry" />
