@@ -211,6 +211,16 @@
         <mxCell id="6IeccwUr0kC99l28bpFg-35" value="工厂" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="6IeccwUr0kC99l28bpFg-27">
           <mxGeometry x="266" y="79.5" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="6IeccwUr0kC99l28bpFg-38" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1330" y="990" as="sourcePoint" />
+            <mxPoint x="-1280" y="940" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1280" y="990" />
+              <mxPoint x="-1330" y="940" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
