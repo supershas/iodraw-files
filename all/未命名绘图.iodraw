@@ -155,6 +155,9 @@
         <mxCell id="6IeccwUr0kC99l28bpFg-2" value="石料调拨单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1200" y="530" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="6IeccwUr0kC99l28bpFg-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6IeccwUr0kC99l28bpFg-4" target="6IeccwUr0kC99l28bpFg-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6IeccwUr0kC99l28bpFg-4" value="石料入库退回单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1430" y="650" width="120" height="60" as="geometry" />
         </mxCell>
@@ -166,6 +169,9 @@
         </mxCell>
         <mxCell id="6IeccwUr0kC99l28bpFg-10" value="应付单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1430" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6IeccwUr0kC99l28bpFg-13" value="应付单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1430" y="790" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
