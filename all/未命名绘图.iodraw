@@ -213,9 +213,6 @@
         <mxCell id="6IeccwUr0kC99l28bpFg-61" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-1580" y="1040" width="481" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6IeccwUr0kC99l28bpFg-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="6IeccwUr0kC99l28bpFg-61" source="6IeccwUr0kC99l28bpFg-44" target="6IeccwUr0kC99l28bpFg-46">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="6IeccwUr0kC99l28bpFg-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="6IeccwUr0kC99l28bpFg-61" source="6IeccwUr0kC99l28bpFg-44">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="360" y="30" as="targetPoint" />
