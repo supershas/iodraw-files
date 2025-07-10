@@ -211,34 +211,29 @@
           <mxGeometry x="-1610" y="950" width="570" height="260" as="geometry" />
         </mxCell>
         <mxCell id="6IeccwUr0kC99l28bpFg-61" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-1580" y="1050" width="460" height="50" as="geometry" />
+          <mxGeometry x="-1580" y="1040" width="470" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6IeccwUr0kC99l28bpFg-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="6IeccwUr0kC99l28bpFg-61" source="6IeccwUr0kC99l28bpFg-44" target="6IeccwUr0kC99l28bpFg-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6IeccwUr0kC99l28bpFg-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="6IeccwUr0kC99l28bpFg-61" source="6IeccwUr0kC99l28bpFg-44">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="344.2827442827443" y="25" as="targetPoint" />
+            <mxPoint x="351.7671517671518" y="30" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6IeccwUr0kC99l28bpFg-44" value="到货单" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="6IeccwUr0kC99l28bpFg-61">
-          <mxGeometry x="191.2681912681913" width="114.76091476091476" height="50" as="geometry" />
+          <mxGeometry x="195.42619542619545" width="117.25571725571726" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6IeccwUr0kC99l28bpFg-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="6IeccwUr0kC99l28bpFg-61" target="6IeccwUr0kC99l28bpFg-44">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="105.1975051975052" y="25" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6IeccwUr0kC99l28bpFg-64" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6IeccwUr0kC99l28bpFg-45">
-          <mxGeometry x="0.5549" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="107.48440748440748" y="30" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6IeccwUr0kC99l28bpFg-46" value="采购订单" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="6IeccwUr0kC99l28bpFg-61">
-          <mxGeometry width="114.76091476091476" height="50" as="geometry" />
+          <mxGeometry width="117.25571725571726" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6IeccwUr0kC99l28bpFg-60" value="采购入库" style="whiteSpace=wrap;html=1;" vertex="1" parent="6IeccwUr0kC99l28bpFg-61">
-          <mxGeometry x="345.2390852390852" y="-1" width="114.76091476091476" height="50" as="geometry" />
+          <mxGeometry x="352.74428274428277" width="117.25571725571726" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
