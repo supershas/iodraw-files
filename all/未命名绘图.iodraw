@@ -188,8 +188,11 @@
         <mxCell id="6IeccwUr0kC99l28bpFg-25" value="石料调拨单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1212" y="1070" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6IeccwUr0kC99l28bpFg-26" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6IeccwUr0kC99l28bpFg-26" value="供应链" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1640" y="940" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="6IeccwUr0kC99l28bpFg-27" value="供应链" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1630" y="950" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
