@@ -197,7 +197,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6IeccwUr0kC99l28bpFg-30" value="优时成品退厂单" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="6IeccwUr0kC99l28bpFg-27">
-          <mxGeometry x="106" y="99" width="94" height="41" as="geometry" />
+          <mxGeometry x="99" y="99" width="94" height="41" as="geometry" />
         </mxCell>
         <mxCell id="6IeccwUr0kC99l28bpFg-35" value="工厂" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="6IeccwUr0kC99l28bpFg-27">
           <mxGeometry x="106" y="180" width="80" height="60" as="geometry" />
