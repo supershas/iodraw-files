@@ -144,6 +144,9 @@
         <mxCell id="6IeccwUr0kC99l28bpFg-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6IeccwUr0kC99l28bpFg-1" target="6IeccwUr0kC99l28bpFg-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="6IeccwUr0kC99l28bpFg-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6IeccwUr0kC99l28bpFg-1" target="6IeccwUr0kC99l28bpFg-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6IeccwUr0kC99l28bpFg-1" value="石料入库单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1430" y="530" width="120" height="60" as="geometry" />
         </mxCell>
@@ -158,6 +161,9 @@
         </mxCell>
         <mxCell id="6IeccwUr0kC99l28bpFg-8" value="石料调整单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-990" y="647" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6IeccwUr0kC99l28bpFg-10" value="石料入库单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1430" y="390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
