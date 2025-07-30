@@ -1,0 +1,66 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="aHs-lcGfn-7LV5p-6-1s">
+    <mxGraphModel dx="1434" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Kmy3RINMx3toINsQLJWG-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Kmy3RINMx3toINsQLJWG-1" target="Kmy3RINMx3toINsQLJWG-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Kmy3RINMx3toINsQLJWG-4" value="提交" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Kmy3RINMx3toINsQLJWG-3">
+          <mxGeometry x="-0.35" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Kmy3RINMx3toINsQLJWG-1" value="优时到货单提交" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="160" y="230" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Kmy3RINMx3toINsQLJWG-2" value="NCC接受并在NCC/SCRM审核" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="420" y="230" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Kmy3RINMx3toINsQLJWG-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Kmy3RINMx3toINsQLJWG-6" target="Kmy3RINMx3toINsQLJWG-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Kmy3RINMx3toINsQLJWG-9" value="回写" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Kmy3RINMx3toINsQLJWG-8">
+          <mxGeometry x="-0.1667" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Kmy3RINMx3toINsQLJWG-6" value="NCC/SCRM审核完成" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="160" y="390" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Kmy3RINMx3toINsQLJWG-7" value="优时单据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Kmy3RINMx3toINsQLJWG-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Kmy3RINMx3toINsQLJWG-10" target="Kmy3RINMx3toINsQLJWG-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Kmy3RINMx3toINsQLJWG-13" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Kmy3RINMx3toINsQLJWG-12">
+          <mxGeometry y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Kmy3RINMx3toINsQLJWG-10" value="NCC/驳回" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="160" y="505" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Kmy3RINMx3toINsQLJWG-11" value="优时单据都在审核中" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="515" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Kmy3RINMx3toINsQLJWG-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Kmy3RINMx3toINsQLJWG-15" target="Kmy3RINMx3toINsQLJWG-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Kmy3RINMx3toINsQLJWG-18" value="删除" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Kmy3RINMx3toINsQLJWG-17">
+          <mxGeometry x="0.0333" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Kmy3RINMx3toINsQLJWG-15" value="驳回制单人后，优时收回单据单据" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="160" y="630" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Kmy3RINMx3toINsQLJWG-16" value="NCC单据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
