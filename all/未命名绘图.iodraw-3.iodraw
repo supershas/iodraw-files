@@ -59,13 +59,16 @@
           <mxGeometry x="240" y="420" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="57wEh1U4844xd-qlpBaZ-31" value="供应链优时仓减少库存" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="580" width="70" height="50" as="geometry" />
+          <mxGeometry x="249" y="579" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="57wEh1U4844xd-qlpBaZ-32" value="供应链优时仓" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="290" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="57wEh1U4844xd-qlpBaZ-34" value="供应链优时仓减少库存" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="590" width="70" height="50" as="geometry" />
+          <mxGeometry x="430" y="570" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="57wEh1U4844xd-qlpBaZ-35" value="供应链优时仓减少库存" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="259" y="589" width="70" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
