@@ -52,7 +52,7 @@
         <mxCell id="57wEh1U4844xd-qlpBaZ-28" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;限定&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;优时的镶嵌货类商品&lt;/font&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="324" y="100" width="146" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="57wEh1U4844xd-qlpBaZ-29" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;入库单是没有做接口传入库单到NCC。&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;这部分的商品是在优时系统管。 库存数据都在优时系统。&lt;/div&gt;&lt;div&gt;到货单的接口是由于需要NCC进行审批、&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="57wEh1U4844xd-qlpBaZ-29" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;入库单是没有做接口传入库单到NCC。&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;这部分的商品是在优时系统管。 库存数据都在优时系统。&lt;/div&gt;&lt;div&gt;到货单的接口是由于需要NCC进行审批、&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;转库是单据接口确认，也是需要接口的。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="660" width="560" height="180" as="geometry" />
         </mxCell>
         <mxCell id="57wEh1U4844xd-qlpBaZ-30" value="供应链优时仓增加库存" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
