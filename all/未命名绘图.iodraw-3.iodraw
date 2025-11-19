@@ -46,8 +46,11 @@
         <mxCell id="57wEh1U4844xd-qlpBaZ-17" value="NCC应付单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="246" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="57wEh1U4844xd-qlpBaZ-19" value="NCC的转库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="57wEh1U4844xd-qlpBaZ-19" value="中台的转库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="524" width="120" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="57wEh1U4844xd-qlpBaZ-21" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="100" width="110" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
