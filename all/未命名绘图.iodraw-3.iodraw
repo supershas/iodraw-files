@@ -7,7 +7,7 @@
         <mxCell id="57wEh1U4844xd-qlpBaZ-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="57wEh1U4844xd-qlpBaZ-1" target="57wEh1U4844xd-qlpBaZ-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="57wEh1U4844xd-qlpBaZ-1" value="优时采购订单&lt;br&gt;镶嵌的货类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="57wEh1U4844xd-qlpBaZ-1" value="优时采购订单&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="57wEh1U4844xd-qlpBaZ-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="57wEh1U4844xd-qlpBaZ-2" target="57wEh1U4844xd-qlpBaZ-5">
