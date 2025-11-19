@@ -53,12 +53,12 @@
           <mxGeometry x="324" y="100" width="146" height="70" as="geometry" />
         </mxCell>
         <mxCell id="57wEh1U4844xd-qlpBaZ-29" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;入库单是没有做接口传入库单到NCC。&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;这部分的商品是在优时系统管。 库存数据都在优时系统。&lt;/div&gt;&lt;div&gt;到货单的接口是由于需要NCC进行审批、&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;转库是单据接口确认，也是需要接口的。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="140" y="660" width="560" height="180" as="geometry" />
+          <mxGeometry x="140" y="660" width="560" height="140" as="geometry" />
         </mxCell>
         <mxCell id="57wEh1U4844xd-qlpBaZ-30" value="供应链优时仓增加库存" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="420" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="57wEh1U4844xd-qlpBaZ-31" value="供应链优时仓减少库存" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+        <mxCell id="57wEh1U4844xd-qlpBaZ-31" value="供应链优时仓减少库存" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="249" y="579" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="57wEh1U4844xd-qlpBaZ-32" value="供应链优时仓" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
