@@ -55,8 +55,11 @@
         <mxCell id="57wEh1U4844xd-qlpBaZ-29" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;到货单的接口是为了解决，&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="660" width="560" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="57wEh1U4844xd-qlpBaZ-30" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="570" width="120" height="80" as="geometry" />
+        <mxCell id="57wEh1U4844xd-qlpBaZ-30" value="供应链优时仓" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="570" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="57wEh1U4844xd-qlpBaZ-31" value="供应链优时仓" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="580" width="70" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
