@@ -37,14 +37,8 @@
         <mxCell id="57wEh1U4844xd-qlpBaZ-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="663" width="120" height="59" as="geometry" />
         </mxCell>
-        <mxCell id="57wEh1U4844xd-qlpBaZ-11" value="优时" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="40" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="57wEh1U4844xd-qlpBaZ-12" value="到货单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="246" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="57wEh1U4844xd-qlpBaZ-14" value="到货单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="256" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="57wEh1U4844xd-qlpBaZ-15" value="转库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="524" width="120" height="59" as="geometry" />
