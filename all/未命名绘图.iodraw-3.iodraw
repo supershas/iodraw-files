@@ -53,7 +53,10 @@
           <mxGeometry x="324" y="100" width="146" height="70" as="geometry" />
         </mxCell>
         <mxCell id="57wEh1U4844xd-qlpBaZ-29" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;到货单的接口是为了解决，&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="140" y="660" width="180" height="120" as="geometry" />
+          <mxGeometry x="140" y="660" width="560" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="57wEh1U4844xd-qlpBaZ-30" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="570" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
