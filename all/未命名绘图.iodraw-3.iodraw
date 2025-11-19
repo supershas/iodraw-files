@@ -37,11 +37,17 @@
         <mxCell id="57wEh1U4844xd-qlpBaZ-12" value="NCC到货单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="246" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="57wEh1U4844xd-qlpBaZ-15" value="转库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="57wEh1U4844xd-qlpBaZ-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="57wEh1U4844xd-qlpBaZ-15" target="57wEh1U4844xd-qlpBaZ-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="57wEh1U4844xd-qlpBaZ-15" value="NCC的转库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="524" width="120" height="59" as="geometry" />
         </mxCell>
         <mxCell id="57wEh1U4844xd-qlpBaZ-17" value="NCC应付单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="246" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="57wEh1U4844xd-qlpBaZ-19" value="NCC的转库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="524" width="120" height="59" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
